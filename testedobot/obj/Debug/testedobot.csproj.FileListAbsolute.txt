@@ -1,0 +1,11 @@
+C:\Users\DIABO\source\repos\testedobot\testedobot\bin\Debug\testedobot.exe.config
+C:\Users\DIABO\source\repos\testedobot\testedobot\bin\Debug\testedobot.exe
+C:\Users\DIABO\source\repos\testedobot\testedobot\bin\Debug\testedobot.pdb
+C:\Users\DIABO\source\repos\testedobot\testedobot\obj\Debug\testedobot.csproj.AssemblyReference.cache
+C:\Users\DIABO\source\repos\testedobot\testedobot\obj\Debug\testedobot.csproj.SuggestedBindingRedirects.cache
+C:\Users\DIABO\source\repos\testedobot\testedobot\obj\Debug\testedobot.Form1.resources
+C:\Users\DIABO\source\repos\testedobot\testedobot\obj\Debug\testedobot.Properties.Resources.resources
+C:\Users\DIABO\source\repos\testedobot\testedobot\obj\Debug\testedobot.csproj.GenerateResource.cache
+C:\Users\DIABO\source\repos\testedobot\testedobot\obj\Debug\testedobot.csproj.CoreCompileInputs.cache
+C:\Users\DIABO\source\repos\testedobot\testedobot\obj\Debug\testedobot.exe
+C:\Users\DIABO\source\repos\testedobot\testedobot\obj\Debug\testedobot.pdb
